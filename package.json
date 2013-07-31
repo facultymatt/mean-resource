@@ -1,0 +1,30 @@
+{
+  "name": "mean-resource-base",
+  "version": "0.0.1",
+  "description": "Provides a basic RESTful CRUD interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "mean-resource-base"
+  },
+  "keywords": [
+    "resource",
+    "mean",
+    "base"
+  ],
+  "dependencies": {
+    "mers" : "latest"
+  },
+  "author": {
+    "name": "Matt Miller",
+    "url": "Faculty Creative, Phila Penn, USA"
+  },
+  "license": "MIT",
+  "readme": "# MEAN Resource Base\nProvides a basic RESTful CRUD interface.",
+  "readmeFilename": "README.md",
+  "_id": "mean-resource-base@0.0.1",
+  "_from": "mean-resource-base@latest"
+}
